@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Light Crossing Adventure",
+  "description": "An interactive, autism-friendly educational game for children to learn traffic light safety through playful, visual, and vocal interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
